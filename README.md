@@ -27,9 +27,9 @@ See in more detail the amount of your product stock, and see every purchase or s
 - User : admin@gmail.com
 
 # Warning
-<b>(You need install Employee Attendance with QR on Google Play for attendance) https://play.google.com/store/apps/details?id=com.aandt.employeeattendancewithqr. Attendance login system can't working without Employee Attendance with QR application</b>
+<b>(You need install Inventory Stock With Scanner on Google Play for attendance) https://play.google.com/store/apps/details?id=com.aandt.inventorystockwithscanner. this system can't working without the application</b>
 <br><br>
-***This application can't working without Employee Attendance with QR, so please download first on Google Play.***
+***This application can't working without Inventory Stock With Scanner application, so please download first on Google Play.***
 <br><br>
 
 # Install (first the system and then the application)
